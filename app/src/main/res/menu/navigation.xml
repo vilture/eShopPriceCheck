@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/navigation_rub"
+            android:icon="@drawable/rub"
+            android:title="RUB"/>
+
+    <item
+            android:id="@+id/navigation_usd"
+            android:icon="@drawable/usd"
+            android:title="USD"/>
+
+    <item
+            android:id="@+id/navigation_eur"
+            android:icon="@drawable/eur"
+            android:title="EUR"/>
+
+    <item
+            android:id="@+id/navigation_local"
+            android:icon="@drawable/waers"
+            android:title="Local"/>
+
+</menu>
