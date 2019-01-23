@@ -3,21 +3,21 @@
     <item
             android:id="@+id/navigation_rub"
             android:icon="@drawable/rub"
-            android:title="RUB"/>
+            android:title="@string/rub_cur"/>
 
     <item
             android:id="@+id/navigation_usd"
             android:icon="@drawable/usd"
-            android:title="USD"/>
+            android:title="@string/usd_cur"/>
 
     <item
             android:id="@+id/navigation_eur"
             android:icon="@drawable/eur"
-            android:title="EUR"/>
+            android:title="@string/eur_cur"/>
 
     <item
             android:id="@+id/navigation_local"
             android:icon="@drawable/waers"
-            android:title="Local"/>
+            android:title="@string/local_cur"/>
 
 </menu>

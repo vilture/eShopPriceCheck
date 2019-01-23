@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">eShop Price Check</string>
     <string name="urrency_of_conversion">Сurrency of conversion</string>
+    <string name="local_cur">Local</string>
+    <string name="eur_cur">EUR</string>
+    <string name="usd_cur">USD</string>
+    <string name="rub_cur">RUB</string>
 </resources>
